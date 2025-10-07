@@ -12,10 +12,12 @@ A collection of experiments covering fundamental Deep Learning concepts, from im
 * **The Backpropagation Algorithm (From Scratch):** **Core implementation of the backpropagation algorithm** for a multi-layered Neural Network using **NumPy**, demonstrating how weights and biases are updated to minimize loss over epochs.
   
 * **Foundational Architecture from Scratch:** Explore the mechanics of an Artificial Neural Network by manually implementing a basic **Feedforward Neural Network** and its forward pass and loss calculation using only **NumPy**.
+
     
 
-* **Image Classification with MLPs:** Build and train a **Multilayer Perceptron (MLP)** model using Keras/TensorFlow to perform a standard image classification task on the **Fashion MNIST** dataset.
-  
+* **Comparative CNN Analysis (MNIST):** **Investigating and comparing different Convolutional Neural Network (CNN) architectures** (Basic CNN, Varying Layers, and LeNet-5) for **handwritten digit classification** to analyze their training dynamics and performance metrics.
+
+
 * **Model Optimization and Tuning:** Conduct an experiment to compare the performance and convergence of various **optimizers** to identify the most efficient method for a specific model.
   
 * **Sequential Data Prediction (LSTM):** Implement an advanced **Long Short-Term Memory (LSTM)** Recurrent Neural Network for **time-series forecasting**, demonstrated through a practical example of **stock price prediction**.
