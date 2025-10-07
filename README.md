@@ -1,7 +1,7 @@
 # Deep-Learning
 
 
-A collection of experiments covering fundamental Deep Learning concepts, from NumPy-based feedforward networks and activation functions to Keras implementations of MLP image classifiers and LSTM time-series prediction.
+A collection of experiments covering fundamental Deep Learning concepts, from implementing a Perceptron ,Forward-Pass, Backpropagation from scratch using NumPy to Keras for implementations of MLP image classifiers and LSTM time-series prediction.
 
 * **Core Components: Activation and Loss:** Analyze and implement fundamental functions crucial for training, including **Activation Functions**  and **Loss Functions** .
 * **Image Classification with MLPs:** Build and train a **Multilayer Perceptron (MLP)** model using Keras/TensorFlow to perform a standard image classification task on the **Fashion MNIST** dataset.
